@@ -2,6 +2,7 @@
 
 Perkenalkan nama saya **Muhammad Latief**.<br>
 
-Saya seorang **Front-End Developer** 
+Saya seorang lulusan S1 di Universitas Mulia Balikpapan dengan IPK 3,64.<br>
+Saya sedang mempelajari menjadi seorang **Front-End Developer** khususnya di **React Developer**
 
-Saya lulusan Universitas Mulia Jurusan S1 Informatika dengan IPK 3.64
+Saya Tinggal di Balikpapan, Kalimantan Timur
